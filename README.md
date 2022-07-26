@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/shilpas0640/Project/_apis/build/status/Shilpa270.ContosoAir?branchName=master)](https://dev.azure.com/shilpas0640/Project/_build/latest?definitionId=40&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
